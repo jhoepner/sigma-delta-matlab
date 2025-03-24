@@ -1,4 +1,4 @@
-# FPGA-Based Sigma-Delta DAC Implementation
+# Sigma Delta DACs for Low Latency High Sampling Rate Audio on an FPGA with SyFaLa
 
 This repository contains the source code and related files for the **FPGA implementation of a fifth-order, 1-bit Sigma-Delta (SD) DAC**, designed for integration with the SyFaLa toolchain. This implementation enables direct audio playback from SyFaLa-generated signals on an FPGA.
 
